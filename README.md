@@ -6,7 +6,7 @@
 
 ## Problem Solving with C+
 
-### Chapter 4- Procedural Abstraction and FUnctions That Return a Value 
+### Chapter 4- Procedural Abstraction and Functions That Return a Value 
   - 4.1 Top-Down Design 
   - 4.2 Predefined Functions 
   - 4.3 Programmer-Defined Functions 

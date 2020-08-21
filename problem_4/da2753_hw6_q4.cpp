@@ -5,10 +5,7 @@ using namespace std;
 void printDivisors(int num);
 
 int main() {
-  int n;
-
-  cout << "Enter a positive integer: ";
-  cin >> n;
+  int n = 100;
   printDivisors(n);
 
 }

@@ -20,3 +20,16 @@
   - 5.3 Using Procedural Abstraction   
   - 5.4 Tsting and Debugging Functions 
   - 5.5 General Debugging Techniques
+
+## Data Structures and Algorithm Analysis in C++
+
+### Chapter 2- Algorithm Analysis 
+  - 2.1 Mathematical Background
+  - 2.2 Model
+  - 2.3 What to Analyze
+  - 2.4.1 Running-Time calculations
+    - 2.4.1 A Simple Example
+    - 2.4.2 General Rules
+    - 2.4.3 Solutions for the Maximum Subsequence Sum Problem
+    - 2.4.4 Logarithms in the Running Time
+    - 2.4.5 Limitations of Worst-Case Analysis 

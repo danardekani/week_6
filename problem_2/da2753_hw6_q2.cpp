@@ -6,11 +6,24 @@ void printShiftedTriangle(int n, int m, char symbol);
 void printPineTree(int n, char symbol); 
 
 int main() {
+
+  //Section A
+  int num1, margin;
+  char symbol1;
+
+  //Section B
+  int num;
+  char symbol;
+
   cout << " |===== Section A =====|" << endl;
-  printShiftedTriangle(3, 4, '+');
+  cout << "Please enter a number of triangles, number for margine, and symbol separated by a space: ";
+  cin >> num1 >> margin >> symbol1;
+  printShiftedTriangle(num1, margin, symbol1);
 
   cout << " |===== Section B =====|" << endl;
-  printPineTree(3, '#');
+  cout << "Please enter the number of triangles and symbol separated by a space.";
+  cin >> num >> symbol;
+  printPineTree(num, symbol);
 }
 
 //Function definition for question 2a

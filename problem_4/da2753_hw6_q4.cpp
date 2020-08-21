@@ -1,13 +1,23 @@
 #include <iostream>
 using namespace std;
 
+//======================================= Section A =========================================//
+
 //Function decleration 
 void printDivisors(int num);
 
 int main() {
-  int n = 100;
-  printDivisors(n);
+  cout << " |===== Section A =====|" << endl;
 
+  int n;
+  printDivisors(100);
+
+//======================================= Section B =========================================//
+
+  cout << " |===== Section B =====|" << endl;
+  cout << "Please enter a positive integer >=2: ";
+  cin >> n ;
+  printDivisors(n);   
 }
 
 //Function definition
